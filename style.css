@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+h1 {
+  color: crimson;
+}
+
+/* echo "# demo" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AshutoshGaurav05/demo.git
+git push -u origin main */
